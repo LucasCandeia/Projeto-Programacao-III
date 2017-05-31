@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21/05/2017, 22:00:41
+    Author     : Hilton
+*/
+body{
+   background-image: url("..//imagens/teste.jpg");
+    }
+    h1{
+        text-align: center;
+    }
+#conteiner{
+	
+	background: white;
+	width:20cm;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+}
+footer{
+        background: black;
+        color: white;
+	margin-top: 17%;
+	font-size: 10px;
+        height: 50px;
+}
+
+.float{
+    float: right; margin-right: 25%; 
+    margin-left: -10.8%;
+}
+.float2{
+    float: right; margin-right: 38.6%; 
+    margin-left: -10%;
+}
+.float3{
+    float: right; margin-right: 38.4%; 
+    margin-left: -16%;
+}
+.float4{
+    float: right; margin-right: 28.6%; 
+    margin-left: -28%;
+}
+.gravar{
+    margin-left: -50px;
+}
+.botao{
+    float: right;
+    margin-top: -21px;
+    margin-right: 38.5%;
+}
